@@ -1,16 +1,1 @@
-coches=["bmw","audi","toyota","subaru"]
-coches.sort(reverse=True)
-print(coches) 
 
-coches=["bmw","audi","toyota","subaru"]
-print("Esta es la lista original:")
-print(coches)
-print("Esta es la lista ordenada")
-print(sorted(coches))
-print("Esta es la lista original de nuevo:")
-print(coches)
-
-coches=["bmw","audi","toyota","subaru"]
-print(coches)
-coches.reverse()
-print(coches)
